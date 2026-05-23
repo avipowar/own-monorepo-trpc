@@ -1,0 +1,13 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx index.ts"
+  },
+  "dependencies": {
+    "@trpc/client": "^11.17.0",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
