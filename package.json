@@ -1,3 +1,12 @@
 {
-  "private": true
+  "private": true,
+  "dependencies": {
+    "@trpc/client": "^11.17.0",
+    "@trpc/server": "^11.17.0",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "tsx": "^4.22.3",
+    "typescript": "^6.0.3",
+    "zod": "^4.4.3"
+  }
 }
