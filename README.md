@@ -152,7 +152,7 @@ request ko process karta hai
 - httpBatchLink => HTTP request backend ko bhejta hai.
 - AppRouter => Backend ka pura API structure/type.
 
--- createTRPCProxyClient AppRouter types use karke ek type-safe API client banata hai
+-- createTRPCProxyClient AppRouter types use karke ek type-safe API client object banata hai
 -- us client object se frontend directly backend procedures call karta hai
 
 - Frontend ko pata chal gaya:
